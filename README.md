@@ -1,4 +1,4 @@
-# ProductBox Assignment
+# Multi-Method-Site-Title-Nodejs
 
 This repository contains a Node.js application that fetches the titles of websites provided by the user. It is divided
 into four parts, each showcasing different approaches to handle the task of fetching and displaying the titles of
