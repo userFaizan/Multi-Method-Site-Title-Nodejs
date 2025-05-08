@@ -1,0 +1,16 @@
+{
+  "name": "productbox-test",
+  "version": "1.0.0",
+  "description": "Assignment Form Product Box",
+  "license": "ISC",
+  "author": "Muhammad Faizan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "baconjs": "^3.0.23",
+    "request": "^2.88.2"
+  }
+}
